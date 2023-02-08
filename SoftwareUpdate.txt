@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+fix yolo classify model loading error (#9196)
