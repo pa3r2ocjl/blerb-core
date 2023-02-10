@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update docs building code (#7601)
