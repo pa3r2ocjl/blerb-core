@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Update Colab notebook for YOLOv8.1 (#8660)
