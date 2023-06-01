@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Update CITATION.cff with cffinit corrections (#8658)
