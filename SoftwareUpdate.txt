@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
