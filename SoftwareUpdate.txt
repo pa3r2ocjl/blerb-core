@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+New HUB Cloud Training docs page (#8174)
