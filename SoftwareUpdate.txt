@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add Amazon Sagemaker Docs integrations page (#7293)
