@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Pass callbacks to validator (#7320)
