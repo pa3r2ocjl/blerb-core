@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+docs: update view-results-in-terminal.md (#66)
