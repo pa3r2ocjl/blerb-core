@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
